@@ -71,6 +71,10 @@ body {
   font-size: 50px;
 }
 
+#vidText {
+  color: #CF4647;
+}
+
 header {
   position: relative;
   background-color: black;
