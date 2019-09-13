@@ -58,7 +58,7 @@ $(function(){
 var currentButton = -1;
 // To move to local/session storage, change the array into a stored object and use functions to get/set the values.
 var inputValues = [0,0,0,0,0,0,0,0,0,0,0,0];
-var assignedTaxValues = [3,3,3,4,8,1,2,8,20,3,2,0];
+var assignedTaxValues = [3,3,3,4,8,1,2,8,20,3,2,1];
 var calculation = [0,0,0,0,0,0,0,0,0,0,0,0];
 var total = 0;
 
